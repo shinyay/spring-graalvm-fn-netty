@@ -1,4 +1,4 @@
-# Name
+# Spring Function on Graal VM Getting Started
 
 Overview
 
