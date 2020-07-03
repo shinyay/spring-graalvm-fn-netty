@@ -6,6 +6,13 @@ Overview
 
 ## Demo
 
+### 1. Graal VM Installation
+
+```shell script
+$ sdk install java 20.1.0.r8-grl
+$ sdk use java 20.1.0.r8-grl 
+```
+
 ## Features
 
 - feature:1
