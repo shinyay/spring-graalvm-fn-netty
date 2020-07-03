@@ -13,6 +13,14 @@ $ sdk install java 20.1.0.r8-grl
 $ sdk use java 20.1.0.r8-grl 
 ```
 
+### 2. Native Image Installation
+
+Native Image Generator or `native-image` is a utility that processes all the classes of your application and their dependencies, including those from the JDK.
+
+```shell script
+$ gu install native-image
+```
+
 ## Features
 
 - feature:1
