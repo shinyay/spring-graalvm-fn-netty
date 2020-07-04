@@ -21,6 +21,12 @@ Native Image Generator or `native-image` is a utility that processes all the cla
 $ gu install native-image
 ```
 
+### 3. Native Image create
+
+```shell script
+$ ./compile.sh
+```
+
 ## Features
 
 - feature:1
